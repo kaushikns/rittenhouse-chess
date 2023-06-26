@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{index.html}
+
+Welcome to the Rittenhouse Chess Club. We meet Wednesdays at 6:00 and Sundays at 1:00. Free. If you're new, just show up and say hi.
+~~~
+{}{img_left}{./images/banner.png}{profile pic}{100%}{}{https://github.com/szl2/jemdoc-new-design}
+~~~
+
+~~~
+{}{img_left}{./images/info.png}{info pic}{100%}{}{}
+~~~
