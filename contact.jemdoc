@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{contact.html}
+= Contact
+
+== Social
+
+We are active on Facebook and Discord! 
+
+~~~
+{}{raw}
+<br>
+<a href="https://www.facebook.com/groups/rittenhousechess/">
+  <img src="./images/fb.png" style="width:35px;height:35px;border:0;">
+</a>
+
+<a href="https://discord.com/invite/cEXFCshRcH">
+  <img src="./images/discord.png" style="width:35px;height:35px;border:0;">
+</a>
+~~~
